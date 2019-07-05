@@ -1,0 +1,49 @@
+.header{
+	background-image: url("b.jpg");
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 30px;
+	color: white;
+}
+
+.footer{
+	color: white;
+ 	background-image: url("b.jpg");
+ 	background-size: cover;
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.menu {
+  font-size: 15px;
+ background-image: url("b.jpg");
+  list-style:none;
+  text-align:left;
+}
+.menu li{
+    display:inline;
+}
+.menu a {
+
+  display:inline-block;
+  color: white;
+  padding: 16px 20px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.menu a:hover {
+  color: blue;
+}
+
+.conten{
+ overflow: hidden; 
+  height: 405px;
+  width: 100%;
+  position: relative;
+  padding: 10px;
+}
+
+.bio{
+	text-align: center;
+	float: center;
+}
